@@ -1,0 +1,5 @@
+# Local secrets / OS files
+.DS_Store
+.env
+.env.*
+!.env.example
